@@ -6,7 +6,7 @@ tags:
 
 
 
-## 下载
+## 下载picgo
 
 [Releases · Molunerfinn/PicGo (github.com)](https://github.com/Molunerfinn/PicGo/releases)
 
@@ -22,13 +22,7 @@ tags:
 
 [GitHub](https://github.com/)
 
-因为软件自带的github设置有问题，上传总是失败，只好通过第三方插件来进行上传
-
-打开软件，点击左侧列表中的插件设置
-
-![image-20220617200545015](https://gitlab.com/shaonl/img/-/raw/main/img/2022/06/17_20_5_45_2022-06-17-20-05-45-3eb84e1ce6059b8fea5528eebc5f8d51-482e62.png)
-
-
+## 获取github访问token
 
 首先新建一个空仓库
 
@@ -60,7 +54,15 @@ tags:
 
 ![image-20220617201613315](https://gitlab.com/shaonl/img/-/raw/main/img/2022/06/17_20_16_13_2022-06-17-20-16-13-e8d456f30c2baf279c073260e217b670-28e0a5.png)
 
-网页上会出token，网页别关，将这个值先复制到别的地方，因为只会显示一次，打开picgo，设置相关参数
+网页上会出token，网页别关，将这个值先复制到别的地方，因为只会显示一次
+
+## 软件设置
+
+打开picgo，设置相关参数因为软件自带的github设置有问题，上传总是失败，只好通过第三方插件来进行上传
+
+打开软件，点击左侧列表中的插件设置
+
+![image-20220617200545015](https://gitlab.com/shaonl/img/-/raw/main/img/2022/06/17_20_5_45_2022-06-17-20-05-45-3eb84e1ce6059b8fea5528eebc5f8d51-482e62.png)
 
 
 
@@ -78,6 +80,6 @@ customUrl:  `https://cdn.jsdelivr.net/gh/用户名/仓库名@分支
 
 点击确定即可
 
-![image-20220617202922915](https://cdn.jsdelivr.net/gh/shaonl0/img@main/img/2022-06-17-20-29-22-08a32abf3281c53e19c327a86cf05efe-f971e2.png)
+![](https://gitlab.com/shaonl/img/-/raw/main/img/2022/06/17_20_31_15_2022-06-17-20-31-15-09d5780dc2e0d296200e33733d6cf885-74c92d.png)
 
 选择一张图片往里面拖可以看到上传成功的提示啦
